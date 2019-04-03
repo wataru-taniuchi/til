@@ -5,7 +5,6 @@
 ホストOS上に仮想環境領域を作成する。  
 FYI: [仮想環境の種類](https://qiita.com/9en/items/f4eab2f61485a9f3885a)
 
------
 ## 構築手順 for Mac
 #### アプリケーションのインストール
 1. [dockerhub](https://hub.docker.com/editions/community/docker-ce-desktop-mac)からダウンロード
